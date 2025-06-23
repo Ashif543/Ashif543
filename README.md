@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 ### 📬 Connect with Me
 <div align="left">
-  <a href=" https://www.instagram.com/mr_professor_hiest?igsh=MXd6dXVpOTI2YnJ1bA==
+  <a href="https://www.instagram.com/mr_professor_hiest?igsh=MXd6dXVpOTI2YnJ1bA==">
 target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
